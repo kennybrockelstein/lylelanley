@@ -1432,14 +1432,15 @@ input, select, textarea {
 
 			#header .content p br {
 				display: none;
+				line-height: .5rem;
 			}
 
 			#header nav ul li a {
 				font-size: 1.75rem;
-				line-height: 0.5;
+				line-height: .75;
 				text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 6px #fff, 0 0 5px rgb(137, 229, 255), 0 0 9px rgb(137, 229, 255), 0 0 11px rgb(137, 229, 255), 0 0 12px rgb(137, 229, 255), 0 0 20px rgb(137, 229, 255);
 			}
-
+			
 		}	
 
 		@media screen and (max-width: 736px) {
