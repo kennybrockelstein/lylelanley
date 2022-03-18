@@ -1436,8 +1436,11 @@ input, select, textarea {
 
 			#header nav ul li a {
 				font-size: 1.75rem;
+				line-height: 0.75rem;
 				text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 6px #fff, 0 0 5px rgb(137, 229, 255), 0 0 9px rgb(137, 229, 255), 0 0 11px rgb(137, 229, 255), 0 0 12px rgb(137, 229, 255), 0 0 20px rgb(137, 229, 255);
 			}
+
+		}	
 
 		@media screen and (max-width: 736px) {
 
