@@ -1431,7 +1431,11 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header .content p br {
-				display: none;
+				display:none;
+				line-height: .5rem;
+			}
+
+			#header .content p {
 				line-height: .5rem;
 			}
 
