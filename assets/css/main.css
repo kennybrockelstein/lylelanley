@@ -1434,7 +1434,9 @@ input, select, textarea {
 				display: none;
 			}
 
-		}
+			#header nav ul li a {
+				font-size: 2rem;
+			}
 
 		@media screen and (max-width: 736px) {
 
