@@ -231,12 +231,12 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 2.75rem;
+			font-size: 3rem;
 			line-height: 1.4;
 		}
 
 		h2 {
-			font-size: 1.25em;
+			font-size: 1.5em;
 			line-height: 0.75;
 		}
 
@@ -1336,7 +1336,7 @@ input, select, textarea {
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
-				font-size: 1.5rem;
+				font-size: 2rem;
 				line-height: 2;
 				text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 6px #fff, 0 0 5px rgb(255, 234, 42), 0 0 9px rgb(255, 234, 42), 0 0 11px rgb(255, 234, 42), 0 0 12px rgb(255, 234, 42), 0 0 20px rgb(255, 234, 42);
 			}
@@ -1473,7 +1473,7 @@ input, select, textarea {
 			}
 
 			#header .content p {
-				line-height: 2.875;
+				line-height: 1.5;
 			}
 
 		}
