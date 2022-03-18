@@ -237,7 +237,7 @@ input, select, textarea {
 
 		h2 {
 			font-size: 1.25em;
-			line-height: 1.5;
+			line-height: 0.75;
 		}
 
 	}
@@ -1432,11 +1432,11 @@ input, select, textarea {
 
 			#header .content p br {
 				display:none;
-				line-height: .5rem;
+				line-height: 1.2;
 			}
 
 			#header .content p {
-				line-height: .5rem;
+				line-height: 1.2;
 			}
 
 			#header nav ul li a {
